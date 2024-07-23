@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+body{
+    direction: rtl;
+    font-family: 'Shabnam', sans-serif;
+    box-sizing: border-box;
+  
+  
+}
+@font-face {
+    font-family: 'Shabnam';
+    src: local('Shabnam'), url('./asset/fonts/Shabnam-Medium.woff2') format('woff2'),
+    url('./asset/fonts/Shabnam-Medium.woff') format('woff')
+    url('./asset/fonts/Shabnam-Medium.eot') format('eot'),
+     url('./asset/fonts/Shabnam-Medium.ttf') format('ttf');
+    
+    }
+    
+  
