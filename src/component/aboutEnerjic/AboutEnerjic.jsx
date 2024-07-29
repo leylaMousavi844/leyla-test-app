@@ -1,4 +1,4 @@
-data/db.json
+
 import banner from "./../../asset/images/banner-493x344-1.png"
 import blobs from "./../../asset/images/blobs-about.svg fill.png"
 function AboutEnerjic() {
